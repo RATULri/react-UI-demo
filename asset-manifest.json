@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-UI-demo/static/css/main.d79aec34.chunk.css",
+    "main.js": "/react-UI-demo/static/js/main.9bd0f9e5.chunk.js",
+    "main.js.map": "/react-UI-demo/static/js/main.9bd0f9e5.chunk.js.map",
+    "runtime-main.js": "/react-UI-demo/static/js/runtime-main.e1db0738.js",
+    "runtime-main.js.map": "/react-UI-demo/static/js/runtime-main.e1db0738.js.map",
+    "static/js/2.08f533ce.chunk.js": "/react-UI-demo/static/js/2.08f533ce.chunk.js",
+    "static/js/2.08f533ce.chunk.js.map": "/react-UI-demo/static/js/2.08f533ce.chunk.js.map",
+    "index.html": "/react-UI-demo/index.html",
+    "precache-manifest.f13bbb696891b4b06e0d02362edd68db.js": "/react-UI-demo/precache-manifest.f13bbb696891b4b06e0d02362edd68db.js",
+    "service-worker.js": "/react-UI-demo/service-worker.js",
+    "static/css/main.d79aec34.chunk.css.map": "/react-UI-demo/static/css/main.d79aec34.chunk.css.map",
+    "static/js/2.08f533ce.chunk.js.LICENSE.txt": "/react-UI-demo/static/js/2.08f533ce.chunk.js.LICENSE.txt",
+    "static/media/chat.png": "/react-UI-demo/static/media/chat.bfa96127.png",
+    "static/media/clock.png": "/react-UI-demo/static/media/clock.5afe85d6.png",
+    "static/media/loupe.png": "/react-UI-demo/static/media/loupe.95bbf9e3.png",
+    "static/media/man (1).jpg": "/react-UI-demo/static/media/man (1).bdbf2d5b.jpg",
+    "static/media/man (2).jpg": "/react-UI-demo/static/media/man (2).6afae925.jpg",
+    "static/media/man (3).jpg": "/react-UI-demo/static/media/man (3).e61e90b2.jpg",
+    "static/media/paper-clip.png": "/react-UI-demo/static/media/paper-clip.0a363d17.png",
+    "static/media/profile.jpg": "/react-UI-demo/static/media/profile.0a42dfad.jpg",
+    "static/media/upload.png": "/react-UI-demo/static/media/upload.9a4f428b.png",
+    "static/media/user.png": "/react-UI-demo/static/media/user.12a4c773.png",
+    "static/media/woman (1).jpg": "/react-UI-demo/static/media/woman (1).3d3ca036.jpg",
+    "static/media/woman (2).jpg": "/react-UI-demo/static/media/woman (2).64b27857.jpg",
+    "static/media/woman.jpg": "/react-UI-demo/static/media/woman.045acd40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1db0738.js",
+    "static/js/2.08f533ce.chunk.js",
+    "static/css/main.d79aec34.chunk.css",
+    "static/js/main.9bd0f9e5.chunk.js"
+  ]
+}
